@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.nameList = new System.Windows.Forms.ListBox();
             this.button1 = new System.Windows.Forms.Button();
-            this.listBox2 = new System.Windows.Forms.ListBox();
+            this.partList = new System.Windows.Forms.ListBox();
             this.nameLbl = new System.Windows.Forms.Label();
             this.participantLbl = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
@@ -46,13 +46,13 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "label1";
             // 
-            // listBox1
+            // nameList
             // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(12, 83);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(224, 394);
-            this.listBox1.TabIndex = 1;
+            this.nameList.FormattingEnabled = true;
+            this.nameList.Location = new System.Drawing.Point(12, 83);
+            this.nameList.Name = "nameList";
+            this.nameList.Size = new System.Drawing.Size(224, 394);
+            this.nameList.TabIndex = 1;
             // 
             // button1
             // 
@@ -63,14 +63,16 @@
             this.button1.TabIndex = 2;
             this.button1.Text = "->";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // listBox2
+            // partList
             // 
-            this.listBox2.FormattingEnabled = true;
-            this.listBox2.Location = new System.Drawing.Point(326, 83);
-            this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(224, 394);
-            this.listBox2.TabIndex = 3;
+            this.partList.FormattingEnabled = true;
+            this.partList.Location = new System.Drawing.Point(326, 83);
+            this.partList.Name = "partList";
+            this.partList.Size = new System.Drawing.Size(224, 394);
+            this.partList.TabIndex = 3;
+            this.partList.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.partList_MouseDoubleClick);
             // 
             // nameLbl
             // 
@@ -108,9 +110,9 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.participantLbl);
             this.Controls.Add(this.nameLbl);
-            this.Controls.Add(this.listBox2);
+            this.Controls.Add(this.partList);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.nameList);
             this.Controls.Add(this.label1);
             this.Name = "Form2";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -124,9 +126,9 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ListBox nameList;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.ListBox listBox2;
+        private System.Windows.Forms.ListBox partList;
         private System.Windows.Forms.Label nameLbl;
         private System.Windows.Forms.Label participantLbl;
         private System.Windows.Forms.Button button2;

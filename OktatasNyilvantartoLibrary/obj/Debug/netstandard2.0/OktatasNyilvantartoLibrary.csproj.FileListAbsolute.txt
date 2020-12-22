@@ -1,0 +1,9 @@
+W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantartoLibrary\bin\Debug\netstandard2.0\OktatasNyilvantartoLibrary.deps.json
+W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantartoLibrary\bin\Debug\netstandard2.0\OktatasNyilvantartoLibrary.dll
+W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantartoLibrary\bin\Debug\netstandard2.0\OktatasNyilvantartoLibrary.pdb
+W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantartoLibrary\obj\Debug\netstandard2.0\OktatasNyilvantartoLibrary.csprojAssemblyReference.cache
+W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantartoLibrary\obj\Debug\netstandard2.0\OktatasNyilvantartoLibrary.AssemblyInfoInputs.cache
+W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantartoLibrary\obj\Debug\netstandard2.0\OktatasNyilvantartoLibrary.AssemblyInfo.cs
+W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantartoLibrary\obj\Debug\netstandard2.0\OktatasNyilvantartoLibrary.dll
+W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantartoLibrary\obj\Debug\netstandard2.0\OktatasNyilvantartoLibrary.pdb
+W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantartoLibrary\obj\Debug\netstandard2.0\OktatasNyilvantartoLibrary.csproj.CoreCompileInputs.cache

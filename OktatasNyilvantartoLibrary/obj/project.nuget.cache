@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+rYDLYcqE4fkgkOmY7f40xdLyd0+4ryaBH+CqGuLGNKmkKeXITTa/PIpodcy5AtnoM5hG+ZLLx7brmsKOUPPZw==",
+  "success": true,
+  "projectFilePath": "W:\\Attila_programok\\OktatasNyilvantarto\\OktatasNyilvantartoLibrary\\OktatasNyilvantartoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\balindattila\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\balindattila\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\balindattila\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
