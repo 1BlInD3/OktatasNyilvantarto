@@ -19,21 +19,9 @@ namespace OktatasNyilvantarto
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            label1.Text = Value;
-            using (var db = new DolgozoiKodok())
-            {
-                var query = from dk in db.DolgKodok
-                            orderby dk.TextDescription
-                            where dk.StatusAkt == 1
-                            select new { dk.TSz, dk.TextDescription };
-                foreach (var a in query)
-                {
-                    nameList.Items.Add(a.TextDescription + "#" + a.TSz);
-                }
-            }
+            label1.Text = Users.Value;
+            LoadWidgets.LoadNames(nameList);
         }
-        public string Value { get; set; }
-
         private void button2_Click(object sender, EventArgs e)
         {
             this.Close();

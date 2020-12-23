@@ -88,9 +88,9 @@
             this.educationLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.educationLbl.Location = new System.Drawing.Point(7, 87);
             this.educationLbl.Name = "educationLbl";
-            this.educationLbl.Size = new System.Drawing.Size(109, 25);
+            this.educationLbl.Size = new System.Drawing.Size(136, 25);
             this.educationLbl.TabIndex = 4;
-            this.educationLbl.Text = "Oktatások";
+            this.educationLbl.Text = "Kérvény lista";
             // 
             // newEducationLbl
             // 
@@ -98,9 +98,9 @@
             this.newEducationLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.newEducationLbl.Location = new System.Drawing.Point(7, 349);
             this.newEducationLbl.Name = "newEducationLbl";
-            this.newEducationLbl.Size = new System.Drawing.Size(195, 25);
+            this.newEducationLbl.Size = new System.Drawing.Size(201, 25);
             this.newEducationLbl.TabIndex = 3;
-            this.newEducationLbl.Text = "Új oktatás felvétele";
+            this.newEducationLbl.Text = "Új kérvény felvétele";
             // 
             // listBox2
             // 
@@ -116,9 +116,9 @@
             this.ongoingEducationLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ongoingEducationLbl.Location = new System.Drawing.Point(695, 87);
             this.ongoingEducationLbl.Name = "ongoingEducationLbl";
-            this.ongoingEducationLbl.Size = new System.Drawing.Size(172, 25);
+            this.ongoingEducationLbl.Size = new System.Drawing.Size(200, 25);
             this.ongoingEducationLbl.TabIndex = 6;
-            this.ongoingEducationLbl.Text = "Függő oktatások";
+            this.ongoingEducationLbl.Text = "Elküldött kérvények";
             // 
             // Form1
             // 

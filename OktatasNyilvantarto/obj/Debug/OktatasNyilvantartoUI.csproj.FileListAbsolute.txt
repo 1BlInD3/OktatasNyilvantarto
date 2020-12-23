@@ -11,10 +11,9 @@ W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantarto\bin\Debug\OktatasNyi
 W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantarto\bin\Debug\OktatasNyilvantarto.pdb
 W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantarto\bin\Debug\EntityFramework.dll
 W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantarto\bin\Debug\EntityFramework.SqlServer.dll
-W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantarto\bin\Debug\OktatasNyilvantartoLibrary.dll
 W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantarto\bin\Debug\System.Security.Principal.Windows.dll
-W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantarto\bin\Debug\OktatasNyilvantartoLibrary.pdb
 W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantarto\bin\Debug\EntityFramework.xml
 W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantarto\bin\Debug\EntityFramework.SqlServer.xml
 W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantarto\bin\Debug\System.Security.Principal.Windows.xml
 W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantarto\obj\Debug\OktatasNyilvantartoUI.csproj.CopyComplete
+W:\Attila_programok\OktatasNyilvantarto\OktatasNyilvantarto\obj\Debug\OktatasNyilvantarto.Form3.resources

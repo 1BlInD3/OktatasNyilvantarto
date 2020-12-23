@@ -25,7 +25,7 @@ namespace OktatasNyilvantarto
         private void listBox1_MouseDoubleClick(object sender, MouseEventArgs e)
         {
             Form2 form2 = new Form2();
-            form2.Value = listBox1.SelectedItem.ToString();
+            Users.Value = listBox1.SelectedItem.ToString();
             form2.ShowDialog();
         }
 

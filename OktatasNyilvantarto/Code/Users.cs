@@ -8,6 +8,7 @@ namespace OktatasNyilvantarto
 {
     public static class Users
     {
+        public static string Value { get; set; }
         public static bool IsSuperUser(string[] users)
         {
             foreach (var a in users)

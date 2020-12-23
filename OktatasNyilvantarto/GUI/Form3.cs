@@ -16,5 +16,12 @@ namespace OktatasNyilvantarto
         {
             InitializeComponent();
         }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+            LoadWidgets.LoadType(typeBox);
+            LoadWidgets.LoadStatus(statusBox);
+            LoadWidgets.LoadFrequency(freqBox);
+        }
     }
 }
